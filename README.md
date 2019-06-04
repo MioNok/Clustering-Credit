@@ -1,7 +1,9 @@
-#Kaggle datasets analysis
+# Kaggle datasets analysis
 
 This repository contains some kaggle datasets I have analyzed using different data science methods and graphs.
 
-Currently there are two different datasets analyzed here:
-    __Clustering Credit__: I analyze credit card data with different clusters
-    __Telco Customer Churn__: I use decision trees and random forests to predict customer curn.
+Currently there are two different datasets analyzed _here:_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Clustering Credit**: I analyze credit card data with different _clusters_.  
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Telco Customer Churn**: I use _decision trees_ and _random forests_ to predict customer curn.
